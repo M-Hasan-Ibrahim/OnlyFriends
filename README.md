@@ -1,5 +1,5 @@
 # OnlyFriends
-1- Use the database file found in the repo in mysql workbench
+1- Use the database file found in the repo in mysql workbench 'C#AppData.sql'
 
 2- Go to the SharedData.cs file and write the following: (if it is not found create the class with this name)
 
